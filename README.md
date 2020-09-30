@@ -5,6 +5,10 @@ This test is designed to evaluate your front-end skills using Vue.js to build hi
 # Coding Challenge
 Code a simple landing page using Vue.js
 
+The Photoshop file and assets can be downloaded via the link below 
+
+https://drive.google.com/file/d/1juOcRC-_tHANlvciuC8UfUEC3IVyQdtg/view?usp=sharing
+
 # Assignment Objectives (Requirements)
 •	Successfully convert the landing page design provided into Vue.js.<br>
 •	The landing page should be mobile responsive.<br>
