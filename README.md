@@ -23,4 +23,4 @@ https://drive.google.com/file/d/1juOcRC-_tHANlvciuC8UfUEC3IVyQdtg/view?usp=shari
 
 # Assignment Submission
 1.	Please submit your work via your GitHub or Bitbucket. <br>
-2.	Email jantiha@puretechglobal.com with the link to your repository.
+2.	Email janitha@puretechglobal.com with the link to your repository.
