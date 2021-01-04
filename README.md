@@ -21,4 +21,4 @@ Please refer to the folder assets with image name "01-Landing-Page-(Web-Version)
 
 # Assignment Submission
 1.	Please submit your work via your GitHub or Bitbucket. <br>
-2.	Email janitha@puretechglobal.com with the link to your repository.
+2.	Email management@puretechglobal.com with the link to your repository.
